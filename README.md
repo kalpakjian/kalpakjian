@@ -2,6 +2,16 @@
 
 Unity / VR / AI 學習歷程與作品。這裡是我的 GitHub 總覽——依前綴即可快速辨認每個 repo 的歸屬。
 
+## 🌐 部落格與專題
+
+技術筆記與專題都發佈在 **[AI Tech Notes](https://kalpakjian.github.io/)**：
+
+| 專題 | 內容 |
+|---|---|
+| 📓 [AI Tech Notes](https://kalpakjian.github.io/) | 本地 LLM、AI Agent 工具實測、硬體效能評測 |
+| 🖼️ [OpenCV 電腦視覺學習筆記](https://kalpakjian.github.io/opencv-notes/) | IVDC 課程完整複習（15 節 + 6 個附錄），含 [60 題 MC 模擬試卷](https://kalpakjian.github.io/opencv-notes/#mc-exam) |
+| 📖 [DHH 退休專題](https://kalpakjian.github.io/dhh-rails-world-2026/) | Rails 之父退休與手寫程式碼時代的終結 |
+
 ## 📂 Repo 分組
 
 | 前綴 | 分組 | 說明 | 可見性 |
